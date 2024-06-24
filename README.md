@@ -1,0 +1,1 @@
+This project implements a Hotel Management System where a customer can place orders and waiters take these orders and can calculate the total. A hotel manager module is also implemented to keep track of the total earnings of the hotel. This project was written in C and shared memory is used for inter program commuinication
